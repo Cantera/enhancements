@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: " Suggest a new feature to enhance Cantera"
+about: "Suggest a new feature to enhance Cantera"
 title: ''
 labels: feature-request
 assignees: ''
@@ -19,13 +19,9 @@ Describe the need for the proposed change:
 * Who is affected by the change?
 * Why is this a good solution?
 
-**Description**
+**Possible Solutions**
 
-A detailed description of the proposed change. This may include examples of how the new feature would be used, intended use cases, and pseudo-code illustrating its use.
-
-**Alternatives**
-
-If any alternative solutions to solving the same problem have been considered, describe them here, along with a justification for the chosen approach.
+A detailed description of the proposed change, if there is a particular implementation that should be considered. This may include examples of how the new feature would be used, intended use cases, and pseudo-code illustrating its use. If any alternative solutions have been considered, list them them and explain why the proposed approach is preferable.
 
 **References**
 
